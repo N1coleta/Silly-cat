@@ -1,6 +1,7 @@
 # Silly-cat
-I am so done with trying to make a realistic cat that I made this T_T  
+This is a 3D cat made in blender. It also has a walking animation. 
 
+I am so done with trying to make a realistic cat that I made this T_T  
 
 
 TY FOR THE PERSON THAT MADE THIS TUTORIAL ,ILY AND YOU ARE A LIFE SAVER  
